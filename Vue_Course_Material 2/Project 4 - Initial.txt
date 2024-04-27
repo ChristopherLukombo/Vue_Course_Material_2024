@@ -1,0 +1,2 @@
+There's no initial project for #4
+We'll create a new Vue project together using the Vue CLI
